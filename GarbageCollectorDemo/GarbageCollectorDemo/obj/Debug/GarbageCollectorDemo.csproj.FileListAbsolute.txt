@@ -1,0 +1,8 @@
+D:\Corporate\Nordic Academy\C#\Demos\GarbageCollection-Demos\GarbageCollectorDemo\GarbageCollectorDemo\bin\Debug\GarbageCollectorDemo.exe.config
+D:\Corporate\Nordic Academy\C#\Demos\GarbageCollection-Demos\GarbageCollectorDemo\GarbageCollectorDemo\bin\Debug\GarbageCollectorDemo.exe
+D:\Corporate\Nordic Academy\C#\Demos\GarbageCollection-Demos\GarbageCollectorDemo\GarbageCollectorDemo\bin\Debug\GarbageCollectorDemo.pdb
+D:\Corporate\Nordic Academy\C#\Demos\GarbageCollection-Demos\GarbageCollectorDemo\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\C#\Demos\GarbageCollection-Demos\GarbageCollectorDemo\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.csproj.SuggestedBindingRedirects.cache
+D:\Corporate\Nordic Academy\C#\Demos\GarbageCollection-Demos\GarbageCollectorDemo\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\C#\Demos\GarbageCollection-Demos\GarbageCollectorDemo\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.exe
+D:\Corporate\Nordic Academy\C#\Demos\GarbageCollection-Demos\GarbageCollectorDemo\GarbageCollectorDemo\obj\Debug\GarbageCollectorDemo.pdb
